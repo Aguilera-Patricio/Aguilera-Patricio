@@ -8,16 +8,14 @@
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
 
-  
-| ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/Aguilera-Patricio/Proyecto-7mo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+  <img align="center" src="https://Proyecto-7mo.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Aguilera-Patricio/Laboratorio-IV-7mo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
 </a>
 
