@@ -8,4 +8,4 @@
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9kvqyxw7bcjlcxqdcr6ojh8tb&cover_image=false&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=9649f3&bar_color_cover=true)](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9kvqyxw7bcjlcxqdcr6ojh8tb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=b226f2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9kvqyxw7bcjlcxqdcr6ojh8tb&redirect=true)
