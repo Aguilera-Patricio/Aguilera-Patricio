@@ -7,25 +7,3 @@
 </div>
 
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
-
-
-#### Top Repositories
-
-
-<a href="https://github.com/Aguilera-Patricio/Proyecto-7mo">
-  <img align="center" src="https://Proyecto-7mo.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
-</a>
-<a href="https://github.com/Aguilera-Patricio/Laboratorio-IV-7mo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-
