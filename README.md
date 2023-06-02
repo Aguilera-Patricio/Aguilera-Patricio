@@ -1,3 +1,5 @@
+<h1 align="center"><img src="./src/Dino1.gif" width="1279px"></h1>
+
 <h3 align="left"><img src="./src/sistema.png" width="25px" height="25px"> GitHub Stats</h3>
 
 <div>
