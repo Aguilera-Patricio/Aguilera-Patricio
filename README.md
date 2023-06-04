@@ -1,5 +1,7 @@
 <h2 align="left"><img src="./src/sistema.png" width="25px" height="25px"> GitHub Stats</h2>
 
+<br>
+
 <div>
   <a href="https://github.com/Aguilera-Patricio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aguilera-Patricio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -16,6 +18,8 @@
   <!-- Featured Repositories -->
 #### <h2>Trabajos</h2> 
 
+ <br>
+  
 <p align="center">
 <a href="https://github.com/Aguilera-Patricio/Proyecto-7mo">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera-Patricio&repo=Proyecto-7mo&theme=radical" />
