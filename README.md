@@ -25,7 +25,7 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=Aguilera-Patricio&repo=Laboratorio-IV-7mo&theme=radical" />
 </a>
   
-  <br><br> Vibing to : 🎧  </strong></p>
+  <br><br> listening : 🎧  </strong></p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9kvqyxw7bcjlcxqdcr6ojh8tb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=cc55f7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9kvqyxw7bcjlcxqdcr6ojh8tb&redirect=true)
 
