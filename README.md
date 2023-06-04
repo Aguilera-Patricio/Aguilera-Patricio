@@ -1,4 +1,4 @@
-<h3 align="left"><img src="./src/sistema.png" width="25px" height="25px"> GitHub Stats</h3>
+<h2 align="left"><img src="./src/sistema.png" width="25px" height="25px"> GitHub Stats</h2>
 
 <div>
   <a href="https://github.com/Aguilera-Patricio">
@@ -14,7 +14,7 @@
   
   
   <!-- Featured Repositories -->
-#### Trabajos
+#### <h2>Trabajos</h2> 
 
 <p align="center">
 <a href="https://github.com/Aguilera-Patricio/Proyecto-7mo">
