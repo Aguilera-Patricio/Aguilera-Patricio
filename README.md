@@ -9,7 +9,7 @@
 ![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
  
 <!-- Featured Repositories -->
-#### Featured
+#### Trabajos
 
 <p align="center">
 <a href="https://github.com/Aguilera-Patricio/Proyecto-7mo">
@@ -22,12 +22,4 @@
   
 <br>
 
-<br><br> Vibing to : 🎧  </strong></p>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9kvqyxw7bcjlcxqdcr6ojh8tb&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=b226f2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=9kvqyxw7bcjlcxqdcr6ojh8tb&redirect=true)
 
-<br><br> Vibing to : 🎧  </strong></p>
-
-&nbsp;<div align="center">
-  [![Spotify](https://github.com/Aguilera-Patricio/Aguilera-Patricio/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/9kvqyxw7bcjlcxqdcr6ojh8tb)
-</div>
