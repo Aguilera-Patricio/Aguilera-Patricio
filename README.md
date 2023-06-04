@@ -28,5 +28,6 @@
 
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://Aguilera-Patricio.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/9kvqyxw7bcjlcxqdcr6ojh8tb?si=6fae8b205e804e03)
-
+&nbsp;<div align="center">
+  [![Spotify](https://github.com/Aguilera-Patricio/Aguilera-Patricio/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/9kvqyxw7bcjlcxqdcr6ojh8tb)
+</div>
